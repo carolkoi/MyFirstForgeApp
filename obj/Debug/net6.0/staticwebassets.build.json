@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "l5FKcM5mN5NCViVoO6quGfcR1NBcQQkDfeRYbDiXJ7c=",
+  "Source": "MyForgeApp",
+  "BasePath": "_content/MyForgeApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyForgeApp\\wwwroot",
+      "Source": "MyForgeApp",
+      "ContentRoot": "D:\\ForgeBootCamp2022\\MyForgeApp\\wwwroot\\",
+      "BasePath": "_content/MyForgeApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\ForgeBootCamp2022\\MyForgeApp\\wwwroot\\index.html",
+      "SourceId": "MyForgeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ForgeBootCamp2022\\MyForgeApp\\wwwroot\\",
+      "BasePath": "_content/MyForgeApp",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\ForgeBootCamp2022\\MyForgeApp\\wwwroot\\main.css",
+      "SourceId": "MyForgeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ForgeBootCamp2022\\MyForgeApp\\wwwroot\\",
+      "BasePath": "_content/MyForgeApp",
+      "RelativePath": "main.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main.css"
+    },
+    {
+      "Identity": "D:\\ForgeBootCamp2022\\MyForgeApp\\wwwroot\\main.js",
+      "SourceId": "MyForgeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ForgeBootCamp2022\\MyForgeApp\\wwwroot\\",
+      "BasePath": "_content/MyForgeApp",
+      "RelativePath": "main.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main.js"
+    },
+    {
+      "Identity": "D:\\ForgeBootCamp2022\\MyForgeApp\\wwwroot\\viewer.js",
+      "SourceId": "MyForgeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ForgeBootCamp2022\\MyForgeApp\\wwwroot\\",
+      "BasePath": "_content/MyForgeApp",
+      "RelativePath": "viewer.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\viewer.js"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OQPzxnAOlpXUV8U8QLMCe/nOk6s6ZKsLWNNPPHwEz0Wh5HIpPSG+JIp5qDs42R+GKQywFjE/3CYW2jUToEk4bg==",
+  "success": true,
+  "projectFilePath": "D:\\ForgeBootCamp2022\\MyForgeApp\\MyForgeApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gitongc\\.nuget\\packages\\autodesk.forge\\1.9.0\\autodesk.forge.1.9.0.nupkg.sha512",
+    "C:\\Users\\gitongc\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\gitongc\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}
